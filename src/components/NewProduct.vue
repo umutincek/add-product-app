@@ -60,7 +60,7 @@
             count: null,
             price: null,
             totalPrice: null,
-            selectedImage: null
+            selectedImage: null,
         }
       }
     }
